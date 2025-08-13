@@ -1,0 +1,1 @@
+This Repo is for a recipe project on odinproject site. which is like a html only project for now, it will be touched again in css project. For now its an HTML only project. I have some basic knowledge of html which I will be using for this project.
