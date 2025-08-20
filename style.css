@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(177, 177, 177);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(42, 42, 42);
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+ul {
+    border-bottom: 5px double grey;
+    border-top: 5px double grey;
+    padding: 20px;
+    margin-top: 30px ;
+    
+}
+
+.list {
+    color: rgb(0, 0, 90);
+    font-weight: bold;
+}
+h3 {
+    color: azure;
+    background-color: rgb(62, 62, 62);
+    padding: 3px;
+}
+
+.home{
+    color: black;
+
+    padding: 2px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    
+}
